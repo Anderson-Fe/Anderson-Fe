@@ -20,13 +20,12 @@
 - Statistics
 - Building and optimizing data pipelines
 
-## 💞️ I’m looking to collaborate on:
+## 🤝 I’m looking to collaborate on:
 - Data-related projects
 - Machine Learning applications
 - Python-based tools and scripts
 - Open-source contributions
-- Differential Equations
-- Statistics
+- Differential Equations and Statistics
 - Building and improving data pipelines
 
 ## 📫 How to reach me:
